@@ -50,9 +50,9 @@ You can find both these previews inside the /mydesign folder.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML
+- CSS 
+- Resposnive
 
 ### What I learned
 
