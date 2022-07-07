@@ -32,6 +32,11 @@ body{
 
 .title {
     color: hsl(0, 0%, 100%);
+    cursor: pointer;
+}
+
+.title:hover {
+    color: hsl(178, 100%, 50%);
 }
 
 .content {
@@ -100,6 +105,11 @@ body{
 .name {
     color: hsl(0, 0%, 100%);
     font-weight: 300;
+    pointer: cursor;
+}
+
+.name:hover {
+    color: hsl(178, 100%, 50%);
 }
 
 .attribution { 
