@@ -24,6 +24,7 @@ body{
     border-radius:10px;
     width: 300px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .content-container {
