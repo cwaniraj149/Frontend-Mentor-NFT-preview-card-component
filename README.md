@@ -1,8 +1,9 @@
 # Frontend Mentor - Product preview card component solution
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. Frontend Mentor challenge to build out this product preview card component and get it looking as close to the design as possible.
+My work was to build out this preview card component to the designs inside the `/design` folder and get it looking as close to the design as possible.
 
 ## Welcome! 👋
-My work was to build out this product preview card component to the designs inside the `/design` folder and get it looking as close to the design as possible. 
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. Frontend Mentor challenge to build out this product preview card component and get it looking as close to the design as possible.
+ 
 
 ## Table of contents
 
@@ -56,7 +57,7 @@ You can find both these previews inside the /mydesign folder.
 
 ### What I learned
 
-While doing this project, I learned about box-shadow.
+While doing this project, I learned about box-shadow and image hover.
 
 ```css
 .proud-of-this-css {
